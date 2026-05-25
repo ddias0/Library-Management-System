@@ -3,7 +3,7 @@ package net.codespell.assignments;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Member {
+public class Member 
     private String memberId;
     private String name;
     private String email;
