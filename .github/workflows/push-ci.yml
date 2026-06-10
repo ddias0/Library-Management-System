@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v1
 
       - name: Submit to CodeSpell
         uses: code-spell/codespell-submission-action@91c41516bb441ced971378e4adaf055903370ee4
